@@ -8,7 +8,7 @@ I read through https://en.wikipedia.org/wiki/Base64 and started typing.
 ## Install
 ```bash
 # requires go, tried with 1.18+
-go install github.com/samharju/b64
+go install github.com/samharju/b64@latest
 ```
 
 ## Usage
